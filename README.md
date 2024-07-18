@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajat-Chaudhari
 - 👀 I’m interested in all round learning
-- 🌱 I’m currently diving deep into GenAI concepts, funcdamentals, architectures and implmenetation
+- 🌱 I’m currently diving deep into GenAI concepts, fundamentals, architectures and implmentation
 - 💞️ I’m looking to collaborate on learning new things and helping as many people as I can
 - 📫 How to reach? message me here - https://www.linkedin.com/in/rajat-chaudhari-de/
 - 😄 Pronouns: if you are really into pronouns I go with - Your Highness / Dear Lord/ Daddy 😄 or just the normal ones would do
